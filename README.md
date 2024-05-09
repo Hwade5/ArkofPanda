@@ -5,7 +5,7 @@ coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: width="1004" height="313"
   title:
     visible: true
   description:
